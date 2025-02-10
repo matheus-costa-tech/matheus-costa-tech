@@ -1,25 +1,32 @@
-## Bem-vindo(a) ao meu perfil 😁
+### 👋 Olá! Eu sou o Matheus Costa
 
- <div>
-   <a href="https://github.com/matheus-costa-tech">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheus-costa-tech&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-costa-tech&layout=compact&langs_count=6&theme=tokyonight"/>
+Sou um **Desenvolvedor Front-End**, apaixonado por tecnologia e sempre buscando aprimorar minhas habilidades. Aqui você encontrará meus projetos e códigos que venho aperfeiçoando ao longo do tempo. 🚀
+
+---
+
+### 🛠️ Tecnologias que uso
+
+<div style="display: flex; gap: 10px;">
+  <img src="https://skillicons.dev/icons?i=html,css,js" alt="Tecnologias" />
 </div>
-    
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
- 
-<br>
- 
-### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
- 
-<div> 
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/matheus.costa1553/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.com/channels/@me/1336122290122919987" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mathezuucosta@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/matheus-costa-851107144/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
+
+---
+
+### 📊 Estatísticas do GitHub
+
+![Matheus Costa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=matheus-costa-tech&show_icons=true&theme=dracula)
+
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-costa-tech&layout=compact&theme=dracula)
+
+---
+
+### 🌍 Onde me encontrar
+
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/)
+
+---
+
+💡 **"A melhor maneira de prever o futuro é criá-lo."** – Alan Kay
