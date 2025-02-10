@@ -1,20 +1,28 @@
 # Matheus Costa  
 ---  
 **Desenvolvedor Front-End**  
+<p>Olá! Eu sou o Matheus, um desenvolvedor front-end apaixonado por criar interfaces modernas e responsivas. Aqui você encontrará meus projetos e códigos que venho aperfeiçoando ao longo do tempo.</p>
 
-Olá! Eu sou o Matheus, um desenvolvedor front-end apaixonado por criar interfaces modernas e responsivas. Aqui você encontrará meus projetos e códigos que venho aperfeiçoando ao longo do tempo. 
-
-💻 **Tecnologias principais:**  
-- HTML, CSS e JavaScript  
-- Desenvolvimento responsivo e mobile-first  
-- Flexbox e Grid Layout  
-
-📊 **Estatísticas do GitHub:**  
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-costa-tech&layout=compact&theme=radical)  
-
-🌐 **Conecte-se comigo:**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/seu-perfil)  
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/seu-link)  
-
-Vamos construir algo incrível juntos! 🚀
+ <div>
+   <a href="https://github.com/matheus-costa-tech">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheus-costa-tech&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-costa-tech&layout=compact&langs_count=6&theme=tokyonight"/>
+</div>
+    
+<div style="display: inline_block"><br>
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
+ 
+<br>
+ 
+### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+ 
+<div> 
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/matheus.costa1553/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://discord.com/channels/@me/1336122290122919987" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mathezuucosta@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/matheus-costa-851107144/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
