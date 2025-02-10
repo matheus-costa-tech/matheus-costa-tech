@@ -1,32 +1,20 @@
-### 👋 Olá! Eu sou o Matheus Costa
+# Matheus Costa  
+---  
+**Desenvolvedor Front-End**  
 
-Sou um **Desenvolvedor Front-End**, apaixonado por tecnologia e sempre buscando aprimorar minhas habilidades. Aqui você encontrará meus projetos e códigos que venho aperfeiçoando ao longo do tempo. 🚀
+Olá! Eu sou o Matheus, um desenvolvedor front-end apaixonado por criar interfaces modernas e responsivas. Aqui você encontrará meus projetos e códigos que venho aperfeiçoando ao longo do tempo. 
 
----
+💻 **Tecnologias principais:**  
+- HTML, CSS e JavaScript  
+- Desenvolvimento responsivo e mobile-first  
+- Flexbox e Grid Layout  
 
-### 🛠️ Tecnologias que uso
+📊 **Estatísticas do GitHub:**  
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-costa-tech&layout=compact&theme=radical)  
 
-<div style="display: flex; gap: 10px;">
-  <img src="https://skillicons.dev/icons?i=html,css,js" alt="Tecnologias" />
-</div>
+🌐 **Conecte-se comigo:**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/seu-perfil)  
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/seu-link)  
 
----
-
-### 📊 Estatísticas do GitHub
-
-![Matheus Costa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=matheus-costa-tech&show_icons=true&theme=dracula)
-
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-costa-tech&layout=compact&theme=dracula)
-
----
-
-### 🌍 Onde me encontrar
-
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/)
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/)
-
----
-
-💡 **"A melhor maneira de prever o futuro é criá-lo."** – Alan Kay
+Vamos construir algo incrível juntos! 🚀
