@@ -69,7 +69,7 @@ Olá! Meu nome é Matheus e sou um desenvolvedor Front-End apaixonado por tecnol
     title="outsystems"
     width="30px" 
     style="padding-right: 10px;" 
-    src="cdn.jsdelivr.net/npm/simple-icons@latest/icons/outsystems.svg" 
+    src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/outsystems.svg" 
 />
 
 
