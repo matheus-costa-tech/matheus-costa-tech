@@ -76,7 +76,7 @@ Olá! Meu nome é Matheus e sou um desenvolvedor Front-End apaixonado por tecnol
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=matheus-costa-techh&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=matheus-costa-tech&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
