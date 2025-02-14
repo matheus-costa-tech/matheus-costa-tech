@@ -21,7 +21,7 @@ Olá! Meu nome é Matheus e sou um desenvolvedor Front-End apaixonado por tecnol
             src="https://custom-icon-badges.demolab.com/github/followers/matheus-costa-tech?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
-  <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/lord_hero" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mathezuucosta@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -73,7 +73,7 @@ Olá! Meu nome é Matheus e sou um desenvolvedor Front-End apaixonado por tecnol
 
 
 <div>
-    <img height="170" width="405" src='https://github-readme-stats.vercel.app/api?username=matheus-costa-tech&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br'/>
-    <img height="200" width="405" src='https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-costa-tech&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9'/>
+    <img height="180" width="405" src='https://github-readme-stats.vercel.app/api?username=matheus-costa-tech&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br'/>
+    <img  height="180" width="405" src='https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-costa-tech&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9'/>
 </div>
 
